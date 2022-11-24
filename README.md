@@ -58,6 +58,7 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 <table>
   <tr>
     <td valign="top" width="100%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehabyassin)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehabyassin&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
