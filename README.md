@@ -58,13 +58,13 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 <table>
   <tr>
     <td valign="top" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehabyassin&hide_border=true&layout=compact" align="center" style="width: 95%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehabyassin&hide_border=true&layout=compact" align="center" style="width: 100%" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedehabyassin&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedehabyassin&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%"/>
 
 </td>
 </tr>
 </table>
 <br/>  
-----
+---------------------------------------------------------------------------------------------------------------------
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
