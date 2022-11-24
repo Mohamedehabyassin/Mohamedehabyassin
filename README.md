@@ -66,5 +66,5 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 </tr>
 </table>
 <br/>  
----------------------------------------------------------------------------------------------------------------------
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
