@@ -11,26 +11,17 @@ My specialties include quickly learning new skills and programming languages, pr
 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding.  
   
 
-
-
-### Reach me  
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/https://twitter.com/sawy_1999" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15116790/mohamed-ehab" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ehab99/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/https://www.facebook.com/mohamed.ehab.351756" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -71,6 +62,7 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="75" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="75" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
 </div>  
 
 <br/>  
