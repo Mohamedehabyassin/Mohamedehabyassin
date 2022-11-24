@@ -3,45 +3,24 @@
 
 
 
-### Glad to see you here!  
-Junior Software Developer, B. SC. in Computer Science passionate about Mobile and Web Development with 1-year experience in software development. Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.
+### Glad to see you here !!  
+I'm a Junior Software Developer, B. SC. in Computer Science passionate about Mobile and Web Development with 1-year experience in software development.
 
-My specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, and the Model View View Model (MVVM) and Model View Controller (MVC) methods of organizing code. So far I have strong knowledge of Flutter, Dart, Angular, TypeScript, HTML, CSS, Bootstrap, and Git/GitHub.
+I have the skills and training needed to help develop and maintain software programs and to make improvements that will enhance functionality. I have outstanding problem skills with the ability to work with technical and abstract concepts efficiently.
 
-I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding.  
+My specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, and the Model View View Model (MVVM) and Model View Controller (MVC) methods of organizing code.
+
+I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding.
+  
   
 
-<a href="https://twitter.com/https://twitter.com/sawy_1999" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15116790/mohamed-ehab" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+
+
+### Contact me   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ehab99/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/mohamed.ehab.351756" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Flutter and Angular  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -63,6 +42,13 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="75" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="75" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="75" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="75" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 </div>  
 
 <br/>  
@@ -71,25 +57,17 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedehabyassin&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedehabyassin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedehabyassin&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=mohamedehabyassin&&style=flat-square)  
-  
-
-<br/>  
-
 
 <br />
 
