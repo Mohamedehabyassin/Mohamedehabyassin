@@ -18,8 +18,8 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 
 ### Contact me   
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mohamed-ehab99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mohamed-ehab99?trk=profile-badge">Mohamed Ehab</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="mohamed-ehab99" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mohamed-ehab99?trk=profile-badge">Mohamed Ehab</a></div>
+                            
 <a href="https://www.linkedin.com/in/mohamed-ehab99/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
