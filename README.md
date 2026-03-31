@@ -1,17 +1,11 @@
-## **Hey 👋, I'm Mohamed Ehab!**  
-  
+Hey 👋, I'm Mohamed Ehab! ### Glad to see you here !!
+I'm a Mid-Level Flutter Engineer with a Bachelor’s Degree in Computer Science, bringing 3 years of professional experience to mobile application development and system architecture.
 
+I am passionate about building highly performant, scalable applications. My expertise goes beyond basic UI implementation; I specialize in deep technical problem-solving, including optimizing Flutter's widget and render object trees, performance profiling, and memory management.
 
+Beyond mobile development, I have a strong focus on system design and backend architecture. I actively work with technologies like PostgreSQL and Google Cloud to engineer end-to-end systems capable of handling large-scale user loads.
 
-### Glad to see you here !!  
-I'm a Flutter Developer with a bachelor’s Degree in Computer Science passionate about Mobile Application Development with 2-year experience in software development.
-
-I have the skills and training needed to help develop and maintain software programs and to make improvements that will enhance functionality. I have outstanding problem-solving skills with the ability to work with technical and abstract concepts efficiently.
-
-My specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, and the Model View View Model (MVVM) and Model View Controller (MVC) methods of organizing code.
-
-I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding.
-  
+Currently, I am integrating AI development tools into my workflow to build comprehensive, scalable white-label solutions, all while continuously expanding my knowledge in full-stack Dart development and cloud infrastructure.
   
 
 
