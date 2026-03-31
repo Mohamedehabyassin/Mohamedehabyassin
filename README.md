@@ -34,10 +34,6 @@ With 3+ years of experience, I go beyond UI — diving deep into **rendering pip
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 🎨 UI / Productivity
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
 ---
 
 ## 🌐 Connect With Me
