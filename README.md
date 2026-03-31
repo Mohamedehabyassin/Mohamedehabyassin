@@ -39,15 +39,6 @@ With 3+ years of experience, I go beyond UI — diving deep into **rendering pip
 
 ---
 
-## 🧩 Current Focus
-
-* 🏗️ Building **Velora** — scalable white-label platform
-* 📈 Designing systems that scale to **100K → 1M users**
-* ⚡ Advanced Flutter performance (Impeller, rendering internals)
-* 📱 Cross-platform vs native performance trade-offs
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ehab-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-ehab99/)
