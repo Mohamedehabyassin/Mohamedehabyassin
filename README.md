@@ -44,4 +44,4 @@ With 3+ years of experience, I go beyond UI — diving deep into **rendering pip
 
 ## 💡 Philosophy
 
-> "Performance is a feature. Scalability is a requirement."
+> "Performance and Scalability are a requirement."
