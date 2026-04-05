@@ -1,8 +1,8 @@
 # Hey 👋, I'm Mohamed Ehab
 
-### 🚀 Mobile & System Engineer | Flutter & Android Specialist
+### 🚀 Mobile Engineer | Flutter & Android Specialist
 
-I build **high-performance mobile applications** and design **scalable backend systems** that handle real-world production loads.
+I build **high-performance mobile applications** and design **scalable systems** that handle real-world production loads.
 
 With 3+ years of experience, I go beyond UI — diving deep into **rendering pipelines, performance optimization, and system architecture**.
 
